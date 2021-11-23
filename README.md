@@ -1,0 +1,2 @@
+# Student-portal-management-system-using-java-gui
+Student-Portal-Management-System Developed using java+mysql Contains Two users. admin and student.. Admin module includes new student enrollment, edit student details, update password, edit student marks. Student module includes profile, current semester course enrollment, enrolled courses, current semester timetable, exam marks details, change password etc.
